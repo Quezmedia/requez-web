@@ -1,3 +1,4 @@
 .bundle
 config/mongoid.yml
 coverage
+.env
